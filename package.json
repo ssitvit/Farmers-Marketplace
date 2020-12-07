@@ -1,0 +1,20 @@
+{
+  "name": "farmers-project",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src=\"./assets/IEEE_SSIT_logo_black.png\" />\r     <h2 align=\"center\">Farmers' Market</h2>\r     <h4 align=\"center\">A marketplace for farmers</h4>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Abhinav Gorantla",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  }
+}

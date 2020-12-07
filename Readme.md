@@ -17,4 +17,3 @@
 - [ Abhinav Gorantla ](https://github.com/AbhinavGor)
 - [ Tejas Mukherjee ](https://github.com/)
 - [ Sachet Adhikari ](https://github.com/)
-- [ Sachet Adhikari ](https://github.com/)
